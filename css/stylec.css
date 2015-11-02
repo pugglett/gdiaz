@@ -1,0 +1,46 @@
+@import 'reset.css';
+
+html {
+	background-image: url("http://dl.hdneed.com/wp-content/uploads/Castlevania_Lords-of-shadow-2-wallpaper-1920x1200.jpg");
+	background-position: center;
+
+}
+
+body {
+	margin: 25px;
+	background-color: transparent;
+}
+
+	.nav {
+		font-family: 'Shadows Into Light', cursive;
+		background: transparent;
+	}
+
+	.nav > li > a, .navbar .nav > li > a:first-letter {
+	color: #D50000;
+	text-shadow: none;
+	font-weight: bold;
+}
+
+nav li {
+	display: inline-block;
+    margin: 55px;
+	font-size: 35px;
+}
+
+
+p {
+	font-family: 'Playfair Display', sans-serif;
+	color: #D50000;
+	margin: 25px;
+	font-weight: bold;
+}
+
+section {
+	background-color: transparent;
+
+}
+
+footer {
+	background-color: transparent;
+}
